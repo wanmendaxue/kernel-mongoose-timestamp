@@ -1,7 +1,7 @@
 {
   "name": "@kernel/mongoose-timestamp",
   "description": "Mongoose plugin that adds createdAt and updatedAt auto-assigned date properties",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "author": "Wanmen Dev Team",
   "keywords": [
     "mongodb",
