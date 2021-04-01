@@ -1,5 +1,5 @@
 {
-  "name": "@kernel/mongoose-timestamp",
+  "name": "@wanmendaxue/kernel-mongoose-timestamp",
   "description": "Mongoose plugin that adds createdAt and updatedAt auto-assigned date properties",
   "version": "0.7.1",
   "author": "Wanmen Dev Team",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/wanmendaxue/kernel-mongoose-timestamp"
+    "url": "https://github.com/wanmendaxue/kernel-mongoose-timestamp.git"
   },
   "devDependencies": {
     "mocha": "~2.5.3",
